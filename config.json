@@ -1,0 +1,8 @@
+{
+  "token": "YOUR-TOKEN",
+  "embed_title": "Verification",
+  "embed_message": "To enter the server, you need to make sure Direct Messages are DISABLED in the server's Privacy Settings! Click verify if your DMs are disabled to gain access to the server.",
+  "embed_color": 65280,
+  "verified_role_id": "VERIFIED-ROLE-ID",
+  "permission_role": "ADMIN-ROLE-ID"
+}
